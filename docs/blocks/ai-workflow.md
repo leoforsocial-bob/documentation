@@ -3,7 +3,7 @@
 Execute advanced AI workflows directly within Automa Extension.
 You must connect **Automa AI Power** with your Automa account to use this block.
 
-Note: Automa AI Power requires a separate account. Accounts for Automa AI Power and the Automa extension are not linked at this time. You can register for a new account at https://aipower.automa.site
+Note: Automa AI Power requires a separate account. Accounts for Automa AI Power and the Automa extension are not linked at this time. You can register for a new account at https://aipower.goautoma.com
 
 ## Overview
 
@@ -37,6 +37,6 @@ Assign the results from your AI Power workflow to variables. The number and name
 
 For more details, check out these helpful resources:
 
-  * [Create a New Workflow in AI Power](https://docs.automa.site/AIPower/819038756436922368)
-  * [Knowledge Base Overview](https://docs.automa.site/AIPower/819048519287656448)
-  * [Connect an External Database](https://docs.automa.site/AIPower/819048427348512768)
+  * [Create a New Workflow in AI Power](https://docs.goautoma.com/AIPower/en-US/819038756436922368)
+  * [Knowledge Base Overview](https://docs.goautoma.com/AIPower/en-US/819048519287656448)
+  * [Connect an External Database](https://docs.goautoma.com/AIPower/en-US/819048427348512768)
